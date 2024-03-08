@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KaribuBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b29c4f7937a3375f27b09d9797bf344784231a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("KaribuBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KaribuBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
