@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using KaribuBackend.Models;
+using Microsoft.Extensions.Logging;
 
 namespace KaribuBackend.Controllers;
 

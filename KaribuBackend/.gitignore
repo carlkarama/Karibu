@@ -79,6 +79,9 @@ ehthumbs.db
 *.vsix
 *.swagger
 *.localhistory/
+/bin/
+/obj/
+/idea/
 
 # JetBrains Rider specific files
 .idea/
